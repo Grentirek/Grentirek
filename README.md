@@ -7,5 +7,6 @@ My Linkedin is [here](https://www.linkedin.com/in/gren-tirek/?locale=en_US)[^1].
 
 Known Lnaguages | Learning | Will Known
 --- | --- | ---
--- | *Java* | HTML
--- | *Python* | C#
+-- | *Java* | C#
+-- | *Python* | --
+-- | *HTML* | --
