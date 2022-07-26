@@ -10,3 +10,5 @@ Known Lnaguages | Learning | Will Known
 -- | *Java* | JavaScript
 -- | *Python* | CSS
 -- | *HTML* | --
+
+![Grentirek's Stats On Github](https://github-readme-stats.vercel.app/api?username=Grentirek&theme=github_dark)
