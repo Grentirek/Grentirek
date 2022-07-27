@@ -8,7 +8,8 @@ My Linkedin is [here](https://www.linkedin.com/in/gren-tirek/?locale=en_US)[^1].
 Known Lnaguages | Learning | Will Known
 --- | --- | ---
 -- | *Java* | JavaScript
--- | *Python* | CSS
+-- | *Python* | --
 -- | *HTML* | --
+-- | *CSS* | --
 
 ![Grentirek's Stats On Github](https://github-readme-stats.vercel.app/api?username=Grentirek&theme=github_dark)
