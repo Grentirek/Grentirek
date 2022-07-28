@@ -2,7 +2,7 @@
 #### Grentirek; An softwware enthusiast.
 
 Hello! I'm an developer. I'm learning now java and English. My favorite software languages are Python, Java-JavaScript, HTML, Django and C#. I'll learn them Insha Allah.
-My Linkedin is [here](https://www.linkedin.com/in/gren-tirek/?locale=en_US)[^1]. And my [own site here](https://grentirek.github.io/Grentirek_OwnSite/).
+My Linkedin is [here](https://www.linkedin.com/in/gren-tirek/?locale=en_US)[^1]. And my [own site here](https://grentirek.github.io/Grentirek_Site/).
 [^1]: I added this Linkedin adress for gain experience.
 
 Known Lnaguages | Learning | Will Known
@@ -13,3 +13,4 @@ Known Lnaguages | Learning | Will Known
 -- | *CSS* | --
 
 ![Grentirek's Stats On Github](https://github-readme-stats.vercel.app/api?username=Grentirek&theme=github_dark)
+<img src="https://komarev.com/ghpvc/?username=grentirek&label=Profile%20views&color=CC041B&style=flat" alt="grentirek" /> </p>
