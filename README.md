@@ -7,11 +7,11 @@ My Linkedin is [here](https://www.linkedin.com/in/gren-tirek/?locale=en_US)[^1].
 
 Known Lnaguages | Learning[^2] | Paused | Will Known
 --- | --- | --- | ---
--- | *Java*(%50) | -HTML- | JavaScript
--- | *Python*(%25) | -CSS- | C
--- | -- | -- | C++
+*Java* | *Python*(%25) | -HTML- | JavaScript
+-- | C++(%50) | -CSS- | C
 -- | -- | -- | C#
+-- | -- | -- | --
 
 ![Grentirek's Stats On Github](https://github-readme-stats.vercel.app/api?username=Grentirek&theme=github_dark)
 <img src="https://komarev.com/ghpvc/?username=grentirek&label=Profile%20views&color=CC041B&style=flat" alt="grentirek" /> </p>
-[^2]: This percentage was recorded at w3schools.
+[^2]: This percentage was recorded in w3schools overall..
